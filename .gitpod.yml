@@ -1,0 +1,6 @@
+image:
+  file: .gitpod.Dockerfile
+
+tasks:
+  - name: Jalankan bot Spheron
+    command: python3 bot_spheron.py
